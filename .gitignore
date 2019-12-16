@@ -46,3 +46,4 @@ htmlcov/
 include/
 lib/
 /bootstrap.py
+env/
